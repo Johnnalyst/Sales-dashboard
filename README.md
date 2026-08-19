@@ -42,7 +42,7 @@ The dashboard brings the analysis together through interactive visuals, KPIs, ch
 
 > Add your dashboard screenshot here.
 
-`![Sales Dashboard](Screenshots/dashboard.png)`
+
 
 ## 💡 Business Value
 
@@ -53,7 +53,7 @@ It can help stakeholders quickly monitor performance, identify opportunities, an
 ## 📁 Project Files
 
 * `Sales Data.xlsx` — Raw data, analysis, pivot tables, and dashboard
-* `Screenshots/` — Dashboard screenshots
+* `Sales Dashboard.PNG — Dashboard screenshots
 
 ## 👤 About
 
